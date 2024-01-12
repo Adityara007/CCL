@@ -1,0 +1,30 @@
+.scroll-container::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 30px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background: #ee4949;
+  border-radius: 30px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #f16161;
+  border-radius: 30px;
+}
+
+.scroll-container::-webkit-scrollbar-button {
+  display: none;
+}
+.scroll-container {
+  height: 100px;
+  overflow-y: scroll;
+}
+.dropdown-box {
+  min-height: 120px;
+  background-color: red;
+}

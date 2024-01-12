@@ -1,0 +1,17 @@
+.MuiFormHelperText-root.Mui-error {
+  width: 250px;
+}
+.Mui-focused {
+  color: "tomato";
+}
+.inputText {
+  display: flex;
+  flex-direction: column;
+}
+.inputLabelSection {
+  display: flex;
+}
+.inputRequiredStar {
+  color: red;
+  margin-left: 2px;
+}
