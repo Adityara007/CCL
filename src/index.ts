@@ -1,1 +1,1 @@
-export { default as SelectParent } from './components/Dropdown/DropdownComponent'
+export {default as SelectParent } from './components/Dropdown/'
